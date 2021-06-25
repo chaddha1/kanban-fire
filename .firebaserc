@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "kanbanfire-c062a": {
+      "hosting": {
+        "kanban-fire": [
+          "kanbanfire-c062a"
+        ]
+      }
+    }
+  }
+}
